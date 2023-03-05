@@ -1,6 +1,6 @@
 # Practical-Application-Vehicles
 
-This repo contains the Vehicles Practical submission - including the Jupyter Notebook analysis report (link to notebook: and data set (link to data set: 
+This repo contains the Vehicles Practical submission - including the Jupyter Notebook analysis report (link to notebook: https://github.com/ChristineNoelle/Practical-Application-Vehicles/blob/759ebc8bce2b3734e8b4b8ff77a0d100f5846d43/Vehicles%20Analysis%20Final%20Upload.ipynb) and data set (link to data set: https://github.com/ChristineNoelle/Practical-Application-Vehicles/blob/759ebc8bce2b3734e8b4b8ff77a0d100f5846d43/vehicles.csv).
 
 Purpose
 
