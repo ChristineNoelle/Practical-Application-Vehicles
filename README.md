@@ -4,11 +4,12 @@ This repo contains the Vehicles Practical submission - including the Jupyter Not
 
 Purpose
 
-Apply CRISP-DM Framework to Business Problem
-Explore Kaggle Dataset (426K Cars)
-Understand Factors Making A Car More Expensive or Less Expensive
-Provide Results and Analyses to Used Car Dealership Client
-Provide Clear Recommendations to Client, as to What Consumers Value in Used Car
+1. Apply CRISP-DM Framework to Business Problem
+2. Explore Kaggle Dataset (426K Cars)
+3. Understand Factors Making A Car More Expensive or Less Expensive
+4. Provide Results and Analyses to Used Car Dealership Client
+5. Provide Clear Recommendations to Client, as to What Consumers Value in Used Car
+
 Summary Description
 
 Our intital data set included 18 attributes. We were tasked to identify features, both which make a used car more expensive or less expensive, and to optimize features for possible models. In this analysis of features or attributes, we should have beeen able to determine what consumers most value in a used car. To summarize, of the 18 attributes provided in the data set, we should have chosen which features were most meaningful to the consumer in terms of value. This process and outcome would aid the "fine-tuning" of inventory for a group of used car dealers.
